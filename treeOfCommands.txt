@@ -1,0 +1,61 @@
+graph G {
+0 [label="Start"]
+1 [label="F"]
+2 [label="F"]
+3 [label="P"]
+4 [label="F"]
+5 [label="P"]
+6 [label="F"]
+7 [label="P"]
+8 [label="L"]
+9 [label="L"]
+10 [label="L"]
+11 [label="L"]
+12 [label="L"]
+13 [label="F"]
+14 [label="L"]
+15 [label="L"]
+16 [label="L"]
+17 [label="L"]
+18 [label="F"]
+19 [label="F"]
+20 [label="L"]
+21 [label="L"]
+22 [label="L"]
+23 [label="L"]
+24 [label="F"]
+25 [label="F"]
+26 [label="F"]
+27 [label="L"]
+28 [label="L"]
+29 [label="L"]
+0 -- 1
+1 -- 2
+2 -- 3
+3 -- 4
+4 -- 5
+5 -- 6
+6 -- 7
+7 -- 8
+8 -- 9
+9 -- 10
+10 -- 11
+5 -- 12
+12 -- 13
+13 -- 14
+14 -- 15
+15 -- 16
+3 -- 17
+17 -- 18
+18 -- 19
+19 -- 20
+20 -- 21
+21 -- 22
+1 -- 23
+23 -- 24
+24 -- 25
+25 -- 26
+26 -- 27
+27 -- 28
+28 -- 29
+}
